@@ -9,7 +9,7 @@ module.exports = {
     javascript: './js/index'
   },
 
-  mode: 'development',
+  mode: 'production',
 
   output: {
     filename: 'bundle.js',
